@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "photoniccraft:mediumbattery"
+        }
+    ],
+    "result": {
+        "item": "photoniccraft:smallbattery",
+        "count": 4
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "IRI",
+        "GTG",
+        "IEI"
+    ],
+    "key": {
+        "E": {
+            "item": "photoniccraft:erbiumingot"
+        },
+        "R": {
+            "type": "forge:ore_dict",
+            "ore": "dustRedstone"
+        },
+        "T": {
+            "item": "photoniccraft:tantalumcapacitor"
+        },
+        "G": {
+            "type": "forge:ore_dict",
+            "ore": "blockGlass"
+        },
+        "I": {
+            "type": "forge:ore_dict",
+            "ore": "ingotGold"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:iblaserdetector2",
+        "count": 1
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GDG",
+        "RWR",
+        "GDG"
+    ],
+    "key": {
+        "D": {
+            "item": "minecraft:glowstone"
+        },
+        "W": {
+            "item": "minecraft:water_bucket"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        },
+        "G": {
+            "type": "forge:ore_dict",
+            "ore": "blockGlass"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:halogen",
+        "count": 2
+    }
+}

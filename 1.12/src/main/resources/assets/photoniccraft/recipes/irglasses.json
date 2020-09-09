@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " O ",
+        "BGB",
+        " Y "
+    ],
+    "key": {
+        "O": {
+            "item": "photoniccraft:ircrystal"
+        },
+        "Y": {
+            "item": "photoniccraft:mediumbattery"
+        },
+        "G": {
+            "item": "minecraft:stained_glass_pane",
+            "data": 14
+        },
+        "B": {
+            "item": "minecraft:stained_glass",
+            "data": 14
+        }
+    },
+    "result": {
+        "item": "photoniccraft:irglasses",
+        "count": 1
+    }
+}

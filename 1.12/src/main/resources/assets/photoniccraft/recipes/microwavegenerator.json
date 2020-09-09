@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PLP",
+        "RGR",
+        "PMP"
+    ],
+    "key": {
+        "P": {
+            "item": "photoniccraft:microwavepanel"
+        },
+        "R": {
+            "type": "forge:ore_dict",
+            "ore": "dustRedstone"
+        },
+        "G": {
+            "item": "photoniccraft:lasergenerator"
+        },
+        "L": {
+            "item": "photoniccraft:iblaser"
+        },
+        "M": {
+            "item": "photoniccraft:magnetron"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:microwavegenerator",
+        "count": 1
+    }
+}

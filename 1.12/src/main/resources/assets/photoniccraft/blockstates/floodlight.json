@@ -1,0 +1,24 @@
+{
+	"forge_marker": 1,
+	"variants": {
+		"normal": {
+			"model": "photoniccraft:floodlight"
+		},
+		"powered": {
+			"false": { "model": "photoniccraft:floodlight" },
+			"true": { "model": "photoniccraft:floodlight_on" }
+		},
+		"facing": {
+			"up": { "x": 270 },
+			"down": { "x": 90 },
+			"north": {  },
+			"south": { "y": 180 },
+			"west": { "y": 270 },
+			"east": { "y": 90 }
+		},
+		"inventory": {
+			"model": "photoniccraft:invisible",
+			"transform": "forge:default-block"
+		}
+	}
+}

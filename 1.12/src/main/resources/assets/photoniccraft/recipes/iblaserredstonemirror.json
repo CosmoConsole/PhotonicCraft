@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "III",
+        " MC",
+        "III"
+    ],
+    "key": {
+        "M": {
+            "item": "photoniccraft:mirror"
+        },
+        "C": {
+            "type": "forge:ore_dict",
+            "ore": "dustRedstone"
+        },
+        "I": {
+            "type": "forge:ore_dict",
+            "ore": "ingotIron"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:iblaserredstonemirror",
+        "count": 1
+    }
+}

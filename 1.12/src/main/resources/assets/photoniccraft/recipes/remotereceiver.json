@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "III",
+        "RBR",
+        "SGS"
+    ],
+    "key": {
+        "I": {
+            "type": "forge:ore_dict",
+            "ore": "ingotIron"
+        },
+        "B": {
+            "type": "forge:ore_dict",
+            "ore": "blockIron"
+        },
+        "R": {
+            "type": "forge:ore_dict",
+            "ore": "dustRedstone"
+        },
+        "S": {
+            "item": "minecraft:cobblestone"
+        },
+        "G": {
+            "item": "photoniccraft:ircrystal"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:remotereceiver",
+        "count": 1
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "parent": "block/cube",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [ 0, 135, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.40, 0.40, 0.40 ]
+        }
+    },
+    "textures": {
+        "particle": "photoniccraft:blocks/laser_top",
+        "down": "photoniccraft:blocks/laser_top",
+        "up": "photoniccraft:blocks/laser_top",
+        "north": "photoniccraft:blocks/laser_top_n",
+        "east": "photoniccraft:blocks/merger_side",
+        "south": "photoniccraft:blocks/laser_top",
+        "west": "photoniccraft:blocks/merger_side"
+    }
+}

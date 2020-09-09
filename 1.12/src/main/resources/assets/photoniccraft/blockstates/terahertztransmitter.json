@@ -1,0 +1,12 @@
+{
+	"forge_marker": 1,
+	"variants": {
+		"normal": {
+			"model": "photoniccraft:terahertztransmitter"
+		},
+		"inventory": {
+			"model": "photoniccraft:terahertztransmitter",
+			"transform": "forge:default-block"
+		}
+	}
+}

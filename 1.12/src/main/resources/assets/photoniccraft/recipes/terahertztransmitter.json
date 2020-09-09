@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "III",
+        "TBT",
+        "RGR"
+    ],
+    "key": {
+        "I": {
+            "type": "forge:ore_dict",
+            "ore": "ingotIron"
+        },
+        "B": {
+            "type": "forge:ore_dict",
+            "ore": "blockIron"
+        },
+        "R": {
+            "type": "forge:ore_dict",
+            "ore": "dustRedstone"
+        },
+        "T": {
+            "item": "photoniccraft:tantalumingot"
+        },
+        "G": {
+            "item": "photoniccraft:gyrotron"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:terahertztransmitter",
+        "count": 1
+    }
+}

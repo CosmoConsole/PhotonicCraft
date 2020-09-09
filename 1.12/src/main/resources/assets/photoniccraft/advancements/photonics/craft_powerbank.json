@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "photoniccraft:powerbank"
+        },
+        "title": {
+            "translate": "advancements.photonics.craft_powerbank.title"
+        },
+        "description": {
+            "translate": "advancements.photonics.craft_powerbank.description"
+        }
+    },
+    "parent": "photoniccraft:photonics/terahertz",
+    "criteria": {
+        "iron": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [  
+                    {
+                        "item": "photoniccraft:powerbank"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GGG",
+        "ROR",
+        "GGG"
+    ],
+    "key": {
+        "R": {
+            "item": "photoniccraft:rheniumingot"
+        },
+        "O": {
+            "type": "forge:ore_dict",
+            "ore": "ingotGold"
+        },
+        "G": {
+            "type": "forge:ore_dict",
+            "ore": "blockGlass"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:xraytube",
+        "count": 1
+    }
+}

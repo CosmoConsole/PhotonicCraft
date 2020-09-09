@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SAS",
+        "ERG",
+        "BSB"
+    ],
+    "key": {
+        "S": {
+            "type": "forge:ore_dict",
+            "ore": "ingotIron"
+        },
+        "B": {
+            "item": "photoniccraft:mediumbattery"
+        },
+        "A": {
+            "item": "photoniccraft:antenna"
+        },
+        "E": {
+            "item": "photoniccraft:erbiumingot"
+        },
+        "R": {
+            "item": "photoniccraft:radioreceiver"
+        },
+        "G": {
+            "type": "forge:ore_dict",
+            "ore": "blockGlass"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:pocketradio",
+        "count": 1
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "IMI",
+        "IMI",
+        "IMI"
+    ],
+    "key": {
+        "I": {
+            "type": "forge:ore_dict",
+            "ore": "ingotIron"
+        },
+        "M": {
+            "item": "photoniccraft:mercury"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:smallbattery",
+        "count": 1
+    }
+}

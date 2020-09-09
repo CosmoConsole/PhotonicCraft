@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RER",
+        "OBO",
+        "RER"
+    ],
+    "key": {
+        "O": {
+            "item": "minecraft:obsidian"
+        },
+        "B": {
+            "item": "photoniccraft:lasergenerator"
+        },
+        "R": {
+            "type": "forge:ore_dict",
+            "ore": "dustRedstone"
+        },
+        "E": {
+            "item": "photoniccraft:erbiumingot"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:lasercharger",
+        "count": 1
+    }
+}

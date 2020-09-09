@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "HHH"
+    ],
+    "key": {
+        "H": {
+            "item": "photoniccraft:halogen"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:halogenslab",
+        "count": 6,
+        "data": 0
+    }
+}

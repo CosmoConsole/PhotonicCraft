@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ETE",
+        "PLP",
+        "GPG"
+    ],
+    "key": {
+        "E": {
+            "item": "photoniccraft:erbiumingot"
+        },
+        "T": {
+            "item": "photoniccraft:tantalumcapacitor"
+        },
+        "L": {
+            "item": "minecraft:redstone_lamp"
+        },
+        "G": {
+            "type": "forge:ore_dict",
+            "ore": "blockGlass"
+        },
+        "P": {
+            "item": "minecraft:dye",
+            "data": 5
+        }
+    },
+    "result": {
+        "item": "photoniccraft:ibblacklight",
+        "count": 1
+    }
+}

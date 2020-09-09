@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "photoniccraft:iblaser"
+        },
+        "title": {
+            "translate": "advancements.photonics.craft_laser.title"
+        },
+        "description": {
+            "translate": "advancements.photonics.craft_laser.description"
+        }
+    },
+    "parent": "photoniccraft:photonics/root",
+    "criteria": {
+        "iron": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "photoniccraft:iblaser"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "TGT",
+        "R R"
+    ],
+    "key": {
+        "T": {
+            "item": "photoniccraft:tantalumingot"
+        },
+        "R": {
+            "type": "forge:ore_dict",
+            "ore": "dustRedstone"
+        },
+        "G": {
+            "type": "forge:ore_dict",
+            "ore": "blockGlass"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:tantalumcapacitor",
+        "count": 4
+    }
+}

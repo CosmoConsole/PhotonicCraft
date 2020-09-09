@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "EEE",
+        "GRG",
+        "LLL"
+    ],
+    "key": {
+        "G": {
+            "type": "forge:ore_dict",
+            "ore": "blockGlass"
+        },
+        "L": {
+            "item": "minecraft:glowstone"
+        },
+        "E": {
+            "item": "minecraft:ender_eye"
+        },
+        "R": {
+            "item": "minecraft:redstone_block"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:skylight",
+        "count": 1
+    }
+}

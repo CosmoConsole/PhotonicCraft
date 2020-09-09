@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "photoniccraft:erbiumingot"
+        },
+        {
+            "type": "forge:ore_dict",
+            "ore": "gemEmerald"
+        },
+        {
+            "item": "photoniccraft:erbiumcrystalalpha"
+        },
+        {
+            "item": "photoniccraft:erbiumcrystalalpha"
+        }
+    ],
+    "result": {
+        "item": "photoniccraft:erbiumcrystalbeta",
+        "count": 1
+    }
+}

@@ -1,0 +1,21 @@
+{
+   "microwave.ambient": {
+    "category": "block",
+    "sounds": [
+      "microwave_1",
+      "microwave_2"
+    ]
+   },
+   "microwave.beep": {
+    "category": "block",
+    "sounds": [
+      "microwave_beep"
+    ]
+   },
+   "microwave.start": {
+    "category": "block",
+    "sounds": [
+      "microwave_start"
+    ]
+   }
+}

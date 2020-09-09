@@ -1,0 +1,30 @@
+{
+   "microwave.ambient": {
+    "category": "block",
+    "sounds": [
+      "photoniccraft:microwave_1",
+      "photoniccraft:microwave_2"
+    ]
+   },
+   "microwave.beep": {
+    "category": "block",
+    "subtitle": "subtitle.photoniccraft.microwaveBeep",
+    "sounds": [
+      "photoniccraft:microwave_beep"
+    ]
+   },
+   "microwave.start": {
+    "category": "block",
+    "subtitle": "subtitle.photoniccraft.microwaveStart",
+    "sounds": [
+      "photoniccraft:microwave_start"
+    ]
+   },
+   "deathray.fire": {
+    "category": "block",
+    "subtitle": "subtitle.photoniccraft.gammaFire",
+    "sounds": [
+      "photoniccraft:gamma_fire"
+    ]
+   }
+}

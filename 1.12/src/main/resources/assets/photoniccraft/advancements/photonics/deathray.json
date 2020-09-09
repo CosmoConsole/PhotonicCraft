@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "photoniccraft:gammaraycannon"
+        },
+        "title": {
+            "translate": "advancements.photonics.deathray.title"
+        },
+        "description": {
+            "translate": "advancements.photonics.deathray.description"
+        }
+    },
+    "parent": "photoniccraft:photonics/craft_laser",
+    "criteria": {
+        "deathray_fire": {
+            "trigger": "photoniccraft:deathray_fire"
+        }
+    }
+}

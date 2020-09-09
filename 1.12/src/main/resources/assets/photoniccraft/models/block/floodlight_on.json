@@ -1,0 +1,6 @@
+{
+    "parent": "photoniccraft:block/floodlight",
+	"textures": {
+        "1": "photoniccraft:blocks/floodlight_lamp_on"
+	}
+}

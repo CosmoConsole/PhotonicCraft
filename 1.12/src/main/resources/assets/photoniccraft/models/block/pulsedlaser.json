@@ -1,0 +1,7 @@
+{
+    "parent": "photoniccraft:block/laser",
+	"textures": {
+        "particle": "photoniccraft:blocks/laser_side_pulsed",
+        "0": "photoniccraft:blocks/laser_side_pulsed"
+	}
+}

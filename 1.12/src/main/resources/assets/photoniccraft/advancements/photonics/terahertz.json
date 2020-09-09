@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "photoniccraft:terahertztransmitter"
+        },
+        "title": {
+            "translate": "advancements.photonics.terahertz.title"
+        },
+        "description": {
+            "translate": "advancements.photonics.terahertz.description"
+        }
+    },
+    "parent": "photoniccraft:photonics/root",
+    "criteria": {
+        "terahertz_received": {
+            "trigger": "photoniccraft:terahertz_received"
+        }
+    }
+}

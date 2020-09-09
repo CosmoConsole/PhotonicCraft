@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " F ",
+        "III",
+        "IBI"
+    ],
+    "key": {
+        "F": {
+            "item": "photoniccraft:flashlight"
+        },
+        "B": {
+            "item": "photoniccraft:mediumbattery"
+        },
+        "I": {
+            "type": "forge:ore_dict",
+            "ore": "ingotIron"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:mininghelmet",
+        "count": 1
+    }
+}

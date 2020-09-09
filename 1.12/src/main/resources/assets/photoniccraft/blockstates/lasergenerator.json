@@ -1,0 +1,12 @@
+{
+	"forge_marker": 1,
+	"variants": {
+		"normal": {
+			"model": "photoniccraft:lasergenerator"
+		},
+		"inventory": {
+			"model": "photoniccraft:lasergenerator",
+			"transform": "forge:default-block"
+		}
+	}
+}

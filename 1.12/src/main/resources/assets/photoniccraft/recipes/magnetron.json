@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RGR",
+        "TBT",
+        "IBI"
+    ],
+    "key": {
+        "G": {
+            "type": "forge:ore_dict",
+            "ore": "ingotGold"
+        },
+        "T": {
+            "item": "photoniccraft:tantalumingot"
+        },
+        "R": {
+            "type": "forge:ore_dict",
+            "ore": "dustRedstone"
+        },
+        "B": {
+            "item": "photoniccraft:opticalfiber"
+        },
+        "I": {
+            "type": "forge:ore_dict",
+            "ore": "ingotIron"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:magnetron",
+        "count": 1
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GGG",
+        " GG",
+        "  G"
+    ],
+    "key": {
+        "G": {
+            "type": "forge:ore_dict",
+            "ore": "blockGlass"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:ibprism",
+        "count": 1
+    }
+}

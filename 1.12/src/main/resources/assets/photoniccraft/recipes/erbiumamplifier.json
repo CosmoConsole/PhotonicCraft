@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CAC",
+        "BBB",
+        "CDC"
+    ],
+    "key": {
+        "A": {
+            "item": "photoniccraft:erbiumingot"
+        },
+        "B": {
+            "item": "photoniccraft:opticalfiber"
+        },
+        "C": {
+            "type": "forge:ore_dict",
+            "ore": "ingotIron"
+        },
+        "D": {
+            "type": "forge:ore_dict",
+            "ore": "dustRedstone"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:erbiumamplifier",
+        "count": 1
+    }
+}

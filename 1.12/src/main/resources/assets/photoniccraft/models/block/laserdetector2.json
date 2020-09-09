@@ -1,0 +1,8 @@
+{
+    "parent": "photoniccraft:block/laserdetector",
+	"textures": {
+		"texture0": "photoniccraft:blocks/laserdetector0_g",
+		"texture1": "photoniccraft:blocks/laserdetector1_g",
+		"particle": "photoniccraft:blocks/laserdetector0_g"
+	}
+}

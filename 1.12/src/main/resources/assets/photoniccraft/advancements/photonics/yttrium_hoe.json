@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "photoniccraft:yttriumhoe"
+        },
+        "title": {
+            "translate": "advancements.photonics.yttrium_hoe.title"
+        },
+        "description": {
+            "translate": "advancements.photonics.yttrium_hoe.description"
+        },
+        "frame": "challenge"
+    },
+    "parent": "photoniccraft:photonics/get_yttrium",
+    "criteria": {
+        "iron": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "photoniccraft:yttriumhoe"
+                    }
+                ]
+            }
+        }
+    }
+}

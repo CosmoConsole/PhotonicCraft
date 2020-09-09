@@ -1,0 +1,24 @@
+{
+	"forge_marker": 1,
+	"variants": {
+		"normal": {
+			"model": "photoniccraft:gammaraycannon_charging"
+		},
+		"full": {
+			"false": { "model": "photoniccraft:gammaraycannon_charging" },
+			"true": { "model": "photoniccraft:gammaraycannon_engaged" }
+		},
+		"facing": {
+			"up": { "x": 90 },
+			"down": { "x": 270 },
+			"north": { "y": 180 },
+			"south": { },
+			"west": { "y": 90 },
+			"east": { "y": 270 }
+		},
+		"inventory": {
+			"model": "photoniccraft:gammaraycannon_charging",
+			"transform": "forge:default-block"
+		}
+	}
+}

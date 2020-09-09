@@ -1,0 +1,30 @@
+{
+	"forge_marker": 1,
+	"variants": {
+		"normal": {
+			"model": "photoniccraft:invisible"
+		},
+		"orient": {
+			"0": {"model": "photoniccraft:lasermirror", "x": 0, "y": 0},
+			"1": {"model": "photoniccraft:lasermirror", "x": 0, "y": 90},
+			"2": {"model": "photoniccraft:lasermirror", "x": 270, "y": 0},
+			"3": {"model": "photoniccraft:lasermirror", "x": 270, "y": 90},
+			"4": {"model": "photoniccraft:lasermirror", "x": 90, "y": 0},
+			"5": {"model": "photoniccraft:lasermirror", "x": 90, "y": 270},
+			"6": {"model": "photoniccraft:lasermirror", "x": 0, "y": 0},
+			"7": {"model": "photoniccraft:lasermirror", "x": 0, "y": 0},
+			"8": {"model": "photoniccraft:lasermirror", "x": 0, "y": 180},
+			"9": {"model": "photoniccraft:lasermirror", "x": 0, "y": 270},
+			"10": {"model": "photoniccraft:lasermirror", "x": 270, "y": 180},
+			"11": {"model": "photoniccraft:lasermirror", "x": 270, "y": 270},
+			"12": {"model": "photoniccraft:lasermirror", "x": 90, "y": 180},
+			"13": {"model": "photoniccraft:lasermirror", "x": 90, "y": 90},
+			"14": {"model": "photoniccraft:lasermirror", "x": 0, "y": 0},
+			"15": {"model": "photoniccraft:lasermirror", "x": 0, "y": 0}
+		},
+		"inventory": {
+			"model": "photoniccraft:invisible",
+			"transform": "forge:default-block"
+		}
+	}
+}

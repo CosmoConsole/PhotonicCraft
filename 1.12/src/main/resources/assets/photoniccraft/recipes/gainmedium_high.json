@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GGG",
+        "RER",
+        "GGG"
+    ],
+    "key": {
+        "E": {
+            "item": "photoniccraft:erbiumcrystalbeta"
+        },
+        "R": {
+            "type": "forge:ore_dict",
+            "ore": "dustRedstone"
+        },
+        "G": {
+            "item": "minecraft:glass_pane"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:gainmedium_high",
+        "count": 1
+    }
+}

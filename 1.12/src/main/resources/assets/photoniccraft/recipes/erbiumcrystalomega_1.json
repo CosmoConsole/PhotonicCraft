@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "photoniccraft:erbiumcrystalbeta"
+        },
+        {
+            "item": "photoniccraft:erbiumcrystalbeta"
+        },
+        {
+            "item": "photoniccraft:erbiumcrystalbeta"
+        },
+        {
+            "item": "photoniccraft:erbiumcrystalbeta"
+        },
+        {
+            "item": "minecraft:nether_star"
+        }
+    ],
+    "result": {
+        "item": "photoniccraft:erbiumcrystalomega",
+        "count": 1
+    }
+}

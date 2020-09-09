@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "IBI",
+        "RGR",
+        "IBI"
+    ],
+    "key": {
+        "R": {
+            "type": "forge:ore_dict",
+            "ore": "dustRedstone"
+        },
+        "B": {
+            "item": "photoniccraft:smallbattery"
+        },
+        "G": {
+            "item": "photoniccraft:gyrotron"
+        },
+        "I": {
+            "type": "forge:ore_dict",
+            "ore": "ingotIron"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:terahertzreceiver",
+        "count": 1
+    }
+}

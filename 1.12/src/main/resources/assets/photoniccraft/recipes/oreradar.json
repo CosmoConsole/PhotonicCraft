@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SSS",
+        "ELG",
+        "SBS"
+    ],
+    "key": {
+        "S": {
+            "type": "forge:ore_dict",
+            "ore": "ingotIron"
+        },
+        "B": {
+            "item": "photoniccraft:mediumbattery"
+        },
+        "E": {
+            "item": "photoniccraft:erbiumingot"
+        },
+        "L": {
+            "item": "photoniccraft:xraytube"
+        },
+        "G": {
+            "type": "forge:ore_dict",
+            "ore": "blockGlass"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:oreradar",
+        "count": 1
+    }
+}

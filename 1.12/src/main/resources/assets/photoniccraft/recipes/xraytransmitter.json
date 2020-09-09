@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RSI",
+        "TTG",
+        "RSI"
+    ],
+    "key": {
+        "T": {
+            "item": "photoniccraft:xraytube"
+        },
+        "G": {
+            "item": "minecraft:glass_pane"
+        },
+        "S": {
+            "item": "minecraft:stone",
+            "data": 0
+        },
+        "R": {
+            "item": "photoniccraft:rheniumingot"
+        },
+        "I": {
+            "type": "forge:ore_dict",
+            "ore": "ingotIron"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:xraytransmitter",
+        "count": 1
+    }
+}

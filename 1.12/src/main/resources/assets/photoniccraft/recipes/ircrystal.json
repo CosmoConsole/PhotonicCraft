@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RRR",
+        "RER",
+        "RRR"
+    ],
+    "key": {
+        "E": {
+            "item": "photoniccraft:erbiumcrystalalpha"
+        },
+        "R": {
+            "type": "forge:ore_dict",
+            "ore": "dustRedstone"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:ircrystal",
+        "count": 1
+    }
+}

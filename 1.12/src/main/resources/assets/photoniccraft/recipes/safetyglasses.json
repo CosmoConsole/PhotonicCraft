@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " O ",
+        "BGB"
+    ],
+    "key": {
+        "O": {
+            "item": "minecraft:dye",
+            "data": 14
+        },
+        "G": {
+            "item": "minecraft:stained_glass_pane",
+            "data": 15
+        },
+        "B": {
+            "item": "minecraft:stained_glass",
+            "data": 15
+        }
+    },
+    "result": {
+        "item": "photoniccraft:safetyglasses",
+        "count": 1
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ISI",
+        "TEG",
+        "ISI"
+    ],
+    "key": {
+        "E": {
+            "item": "photoniccraft:erbiumamplifier"
+        },
+        "T": {
+            "item": "photoniccraft:tantalumcapacitor"
+        },
+        "G": {
+            "item": "minecraft:glass_pane"
+        },
+        "S": {
+            "item": "minecraft:stone",
+            "data": 0
+        },
+        "I": {
+            "type": "forge:ore_dict",
+            "ore": "ingotIron"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:iblaser",
+        "count": 1
+    }
+}

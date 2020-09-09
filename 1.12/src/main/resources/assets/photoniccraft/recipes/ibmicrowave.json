@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "III",
+        "IMG",
+        "IFI"
+    ],
+    "key": {
+        "I": {
+            "type": "forge:ore_dict",
+            "ore": "ingotIron"
+        },
+        "G": {
+            "type": "forge:ore_dict",
+            "ore": "blockGlass"
+        },
+        "F": {
+            "item": "minecraft:furnace"
+        },
+        "M": {
+            "item": "photoniccraft:magnetron"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:ibmicrowave",
+        "count": 1
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "targets": [
+        "swap"
+    ],
+    "passes": [
+        {
+            "name": "photoniccraft:lerp3",
+            "intarget": "minecraft:main",
+            "outtarget": "swap",
+            "uniforms": [
+                { 
+                    "name": "Dark", 
+                    "values": [ 0.0, 0.05, 0.0 ] 
+                },
+                { 
+                    "name": "Mid", 
+                    "values": [ 0.25, 0.65, 0.15 ] 
+                },
+                { 
+                    "name": "Light", 
+                    "values": [ 0.85, 1.0, 0.8 ] 
+                }
+            ]
+        },
+        {
+            "name": "blit",
+            "intarget": "swap",
+            "outtarget": "minecraft:main"
+        }
+    ]
+}

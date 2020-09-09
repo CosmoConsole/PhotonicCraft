@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RTR",
+        "QGQ",
+        "SSS"
+    ],
+    "key": {
+        "Q": {
+            "type": "forge:ore_dict",
+            "ore": "gemQuartz"
+        },
+        "G": {
+            "item": "photoniccraft:lightdetector"
+        },
+        "T": {
+            "item": "photoniccraft:xraytube"
+        },
+        "R": {
+            "item": "photoniccraft:rheniumingot"
+        },
+        "S": {
+            "type": "forge:ore_dict",
+            "ore": "dustRedstone"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:xrayreceiver",
+        "count": 1
+    }
+}

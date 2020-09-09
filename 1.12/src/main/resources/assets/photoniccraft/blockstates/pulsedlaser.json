@@ -1,0 +1,20 @@
+{
+	"forge_marker": 1,
+	"variants": {
+		"normal": {
+			"model": "photoniccraft:pulsedlaser"
+		},
+		"facing": {
+			"up": { "model": "photoniccraft:pulsedlaser", "x": 270 },
+			"down": { "model": "photoniccraft:pulsedlaser", "x": 90 },
+			"north": { "model": "photoniccraft:pulsedlaser" },
+			"south": { "model": "photoniccraft:pulsedlaser", "y": 180 },
+			"west": { "model": "photoniccraft:pulsedlaser", "y": 270 },
+			"east": { "model": "photoniccraft:pulsedlaser", "y": 90 }
+		},
+		"inventory": {
+			"model": "photoniccraft:invisible",
+			"transform": "forge:default-block"
+		}
+	}
+}

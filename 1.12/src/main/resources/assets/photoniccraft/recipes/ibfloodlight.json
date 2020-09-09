@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ICI",
+        "LRG",
+        "ICI"
+    ],
+    "key": {
+        "L": {
+            "item": "minecraft:glowstone"
+        },
+        "R": {
+            "item": "minecraft:redstone_lamp"
+        },
+        "G": {
+            "item": "minecraft:glass_pane"
+        },
+        "C": {
+            "item": "minecraft:coal",
+            "data": 0
+        },
+        "I": {
+            "type": "forge:ore_dict",
+            "ore": "ingotIron"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:ibfloodlight",
+        "count": 1
+    }
+}

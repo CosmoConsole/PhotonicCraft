@@ -1,0 +1,18 @@
+[
+{
+  "modid": "photoniccraft",
+  "name": "PhotonicCraft",
+  "description": "Adds photonic items and blocks to Minecraft.",
+  "version": "0.9.6",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CosmoConsole"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "requiredMods": ["CoFHLib","Forge"],
+  "dependencies": ["CoFHLib","ComputerCraft"],
+  "useDependencyInformation": true
+}
+]

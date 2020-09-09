@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "EHE",
+        "RLR",
+        "EHE"
+    ],
+    "key": {
+        "H": {
+            "item": "photoniccraft:gainmedium_high"
+        },
+        "L": {
+            "item": "photoniccraft:iblaser"
+        },
+        "E": {
+            "item": "photoniccraft:erbiumingot"
+        },
+        "R": {
+            "item": "minecraft:repeater"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:ibpulsedlaser",
+        "count": 1
+    }
+}

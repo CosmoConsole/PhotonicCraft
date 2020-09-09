@@ -1,0 +1,19 @@
+{
+    "parent": "block/cube",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [ 0, 135, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.40, 0.40, 0.40 ]
+        }
+    },
+    "textures": {
+        "particle": "photoniccraft:blocks/deathray_charging_side",
+        "down": "photoniccraft:blocks/deathray_charging_side",
+        "up": "photoniccraft:blocks/deathray_charging_side",
+        "north": "photoniccraft:blocks/deathray_charging_side",
+        "east": "photoniccraft:blocks/deathray_charging_side",
+        "south": "photoniccraft:blocks/deathray_charging_front",
+        "west": "photoniccraft:blocks/deathray_charging_side"
+    }
+}

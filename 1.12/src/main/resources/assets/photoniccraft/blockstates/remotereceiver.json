@@ -1,0 +1,12 @@
+{
+	"forge_marker": 1,
+	"variants": {
+		"normal": {
+			"model": "photoniccraft:remotereceiver"
+		},
+		"inventory": {
+			"model": "photoniccraft:remotereceiver",
+			"transform": "forge:default-block"
+		}
+	}
+}

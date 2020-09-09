@@ -1,0 +1,12 @@
+{
+	"forge_marker": 1,
+	"variants": {
+		"normal": {
+			"model": "photoniccraft:infiniterfsink"
+		},
+		"inventory": {
+			"model": "photoniccraft:infiniterfsink",
+			"transform": "forge:default-block"
+		}
+	}
+}

@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "photoniccraft:yttriumingot"
+        },
+        "title": {
+            "translate": "advancements.photonics.get_yttrium.title"
+        },
+        "description": {
+            "translate": "advancements.photonics.get_yttrium.description"
+        }
+    },
+    "parent": "photoniccraft:photonics/root",
+    "criteria": {
+        "iron": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "photoniccraft:yttriumingot"
+                    }
+                ]
+            }
+        }
+    }
+}

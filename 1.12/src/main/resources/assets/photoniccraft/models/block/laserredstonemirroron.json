@@ -1,0 +1,6 @@
+{
+    "parent": "photoniccraft:block/lasermirror",
+    "textures": {
+        "2": "photoniccraft:blocks/laserredstonemirror_both_on"
+    }
+}

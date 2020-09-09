@@ -1,0 +1,30 @@
+{
+	"forge_marker": 1,
+	"variants": {
+		"normal": {
+			"model": "photoniccraft:analoglamp_0"
+		},
+		"power": {
+			"0": { "model": "photoniccraft:analoglamp_0" },
+			"1": { "model": "photoniccraft:analoglamp_1" },
+			"2": { "model": "photoniccraft:analoglamp_2" },
+			"3": { "model": "photoniccraft:analoglamp_3" },
+			"4": { "model": "photoniccraft:analoglamp_4" },
+			"5": { "model": "photoniccraft:analoglamp_5" },
+			"6": { "model": "photoniccraft:analoglamp_6" },
+			"7": { "model": "photoniccraft:analoglamp_7" },
+			"8": { "model": "photoniccraft:analoglamp_8" },
+			"9": { "model": "photoniccraft:analoglamp_9" },
+			"10": { "model": "photoniccraft:analoglamp_10" },
+			"11": { "model": "photoniccraft:analoglamp_11" },
+			"12": { "model": "photoniccraft:analoglamp_12" },
+			"13": { "model": "photoniccraft:analoglamp_13" },
+			"14": { "model": "photoniccraft:analoglamp_14" },
+			"15": { "model": "photoniccraft:analoglamp_15" }
+		},
+		"inventory": {
+			"model": "photoniccraft:analoglamp_0",
+			"transform": "forge:default-block"
+		}
+	}
+}

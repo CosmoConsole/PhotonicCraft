@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SAS",
+        "RRR",
+        "SAS"
+    ],
+    "key": {
+        "A": {
+            "item": "photoniccraft:antenna"
+        },
+        "S": {
+            "item": "minecraft:stone",
+            "data": 0
+        },
+        "R": {
+            "type": "forge:ore_dict",
+            "ore": "dustRedstone"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:radioreceiver",
+        "count": 1
+    }
+}

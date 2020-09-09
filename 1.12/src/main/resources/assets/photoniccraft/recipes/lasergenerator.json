@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "III",
+        "TBT",
+        "RDR"
+    ],
+    "key": {
+        "I": {
+            "type": "forge:ore_dict",
+            "ore": "ingotIron"
+        },
+        "B": {
+            "type": "forge:ore_dict",
+            "ore": "blockIron"
+        },
+        "R": {
+            "type": "forge:ore_dict",
+            "ore": "dustRedstone"
+        },
+        "T": {
+            "item": "photoniccraft:tantalumingot"
+        },
+        "D": {
+            "item": "photoniccraft:iblaserdetector"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:lasergenerator",
+        "count": 1
+    }
+}

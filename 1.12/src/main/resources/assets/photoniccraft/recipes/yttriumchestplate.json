@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "Y Y",
+        "YYY",
+        "YYY"
+    ],
+    "key": {
+        "Y": {
+            "item": "photoniccraft:yttriumingot"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:yttriumchestplate",
+        "count": 1
+    }
+}

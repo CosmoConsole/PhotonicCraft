@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "photoniccraft:microwavegenerator"
+        },
+        "title": {
+            "translate": "advancements.photonics.craft_microwave_generator.title"
+        },
+        "description": {
+            "translate": "advancements.photonics.craft_microwave_generator.description"
+        }
+    },
+    "parent": "photoniccraft:photonics/craft_laser",
+    "criteria": {
+        "iron": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "photoniccraft:microwavegenerator"
+                    }
+                ]
+            }
+        }
+    }
+}

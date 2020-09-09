@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GMG",
+        "MLM",
+        "GMG"
+    ],
+    "key": {
+        "G": {
+            "type": "forge:ore_dict",
+            "ore": "blockGlass"
+        },
+        "M": {
+            "item": "photoniccraft:mirror"
+        },
+        "L": {
+            "item": "minecraft:glowstone"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:glisterstone",
+        "count": 4
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "YY",
+        "YS",
+        " S"
+    ],
+    "key": {
+        "Y": {
+            "item": "photoniccraft:yttriumingot"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:yttriumaxe",
+        "count": 1
+    }
+}

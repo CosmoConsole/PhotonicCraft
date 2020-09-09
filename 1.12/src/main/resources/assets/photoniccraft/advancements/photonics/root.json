@@ -1,0 +1,79 @@
+{
+    "display": {
+        "icon": {
+            "item": "photoniccraft:erbiumore"
+        },
+        "title": {
+            "translate": "advancements.photonics.root.title"
+        },
+        "description": {
+            "translate": "advancements.photonics.root.description"
+        },
+        "background": "photoniccraft:textures/blocks/anorthosite.png"
+    },
+    "criteria": {
+        "erbiumore": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "photoniccraft:erbiumore"
+                    }
+                ]
+            }
+        },
+        "tantalumore": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "photoniccraft:tantalumore"
+                    }
+                ]
+            }
+        },
+        "hahniumore": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "photoniccraft:hahniumore"
+                    }
+                ]
+            }
+        },
+        "mercuryore": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "photoniccraft:mercuryore"
+                    }
+                ]
+            }
+        },
+        "yttriumore": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "photoniccraft:yttriumore"
+                    }
+                ]
+            }
+        },
+        "rheniumore": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "photoniccraft:rheniumore"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        ["erbiumore", "tantalumore", "hahniumore", "mercuryore", "yttriumore", "rheniumore"]
+    ]
+}

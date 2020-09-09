@@ -1,0 +1,7 @@
+{
+    "parent": "photoniccraft:block/microwave",
+    "textures": {
+        "4": "photoniccraft:blocks/microwave_inside_on",
+        "5": "photoniccraft:blocks/microwave_plate_on"
+    }
+}

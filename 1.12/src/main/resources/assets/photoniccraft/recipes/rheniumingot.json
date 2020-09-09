@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "A"
+    ],
+    "key": {
+        "A": {
+            "item": "photoniccraft:rheniumblock"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:rheniumingot",
+        "count": 9
+    }
+}

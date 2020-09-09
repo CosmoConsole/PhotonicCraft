@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SSS",
+        "ELG",
+        "BSB"
+    ],
+    "key": {
+        "S": {
+            "type": "forge:ore_dict",
+            "ore": "ingotIron"
+        },
+        "B": {
+            "item": "photoniccraft:smallbattery"
+        },
+        "E": {
+            "item": "minecraft:stone_button"
+        },
+        "L": {
+            "item": "photoniccraft:ircrystal"
+        },
+        "G": {
+            "type": "forge:ore_dict",
+            "ore": "blockGlass"
+        }
+    },
+    "result": {
+        "item": "photoniccraft:remotecontrol",
+        "count": 1
+    }
+}

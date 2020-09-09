@@ -1,0 +1,22 @@
+{
+	"forge_marker": 1,
+	"variants": {
+		"normal": {
+			"model": "photoniccraft:invisible"
+		},
+		"powered": {
+			"false": { "model": "photoniccraft:microwave" },
+			"true": { "model": "photoniccraft:microwave_on" }
+		},
+		"facing": {
+			"north": { },
+			"south": { "y": 180 },
+			"west": { "y": 270 },
+			"east": { "y": 90 }
+		},
+		"inventory": {
+			"model": "photoniccraft:invisible",
+			"transform": "forge:default-block"
+		}
+	}
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "photoniccraft:block/fluorescent",
+	"textures": {
+		"texture0": "photoniccraft:blocks/blacklight0_on",
+		"particle": "photoniccraft:blocks/blacklight0_on"
+	}
+}
